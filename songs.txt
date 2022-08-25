@@ -1,0 +1,12 @@
+iki keklik;erkan oğur;1001;turk halk;1996
+ask;sertab erener;1002;pop;1999
+yolla;tarkan;1003;pop;2017
+karabiberim;serdar ortac;1004;pop;2013
+mey;model;1005;pop;2016
+pieces;red;1006;rock;2006
+mesafe;serdar ortaç;1015;pop;2006
+dursun zaman;manga;1016;pop;2004
+hint kumaşı;manga;1017;pop;2014
+dibine kadar;duman;1018;pop;2009
+aziz;nil;1990;pop;2000
+animals;martin garrix;970;pop;2000
